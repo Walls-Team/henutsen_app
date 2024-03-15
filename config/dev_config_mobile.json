@@ -1,0 +1,7 @@
+{
+    "serviceURL": "https://henutsen.loca.lt/api/",
+    "serviceURLScim": "https://henutsen-scim.loca.lt/",
+    "apiManagementURL": "https://localtunnel-service.azurewebsites.net/api/",
+    "sendGridURL": "https://sendgriddata.loca.lt/api/",
+    "serviceURLSubscription": "http://192.168.0.10:7071/api/"
+}

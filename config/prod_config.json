@@ -1,0 +1,7 @@
+{
+  "serviceURL": "https://henutsenapi-prod.azurewebsites.net/api/",
+  "serviceURLScim": "https://scim-prod.azurewebsites.net/",
+  "apiManagementURL": "https://localtunnel-service.azurewebsites.net/api/",
+  "serviceURLSubscription": "",
+  "sendGridURL": "https://sendgriddata.azurewebsites.net/api/"
+}

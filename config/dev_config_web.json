@@ -1,0 +1,7 @@
+{
+  "serviceURL": "http://localhost:7072/api/",
+  "serviceURLScim": "http://localhost:7071/",
+  "apiManagementURL": "http://localhost:7073/api/",
+  "sendGridURL": "http://localhost:7073/api/",
+  "serviceURLSubscription": "http://localhost:7073/api/"
+}

@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Henutsen Dev Mobile",
+            "type": "dart",
+            "request": "launch",
+            "args": [
+                "--dart-define",
+                "DEFINE_CONFIG_FILE=config/dev_config_mobile.json"
+            ]
+        },
+        {
+            "name": "Henutsen Dev Web",
+            "type": "dart",
+            "request": "launch",
+            "args": [
+                "--dart-define",
+                "DEFINE_CONFIG_FILE=config/dev_config_web.json"
+            ]
+        },
+        {
+            "name": "Henutsen QA",
+            "type": "dart",
+            "request": "launch",
+            "args": [
+                "--dart-define",
+                "DEFINE_CONFIG_FILE=config/qa_config.json"
+            ]
+        },
+        {
+            "name": "Henutsen Prod",
+            "type": "dart",
+            "request": "launch",
+            "args": [
+                "--dart-define",
+                "DEFINE_CONFIG_FILE=config/prod_config.json"
+            ]
+        }
+    ]
+}
